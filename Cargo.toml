@@ -1,0 +1,7 @@
+[package]
+name = "tf_idf"
+version = "0.1.0"
+authors = ["Nequ4tion"]
+edition = "2018"
+
+[dependencies]
