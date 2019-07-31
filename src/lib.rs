@@ -1,3 +1,6 @@
+/* Copyright (c) 2019 Nequ4tion */
+/* See LICENSE for licensing information */
+
 mod tf;
 mod idf;
 

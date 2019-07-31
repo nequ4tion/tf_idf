@@ -1,3 +1,5 @@
+/* Copyright (c) 2019 Nequ4tion */
+/* See LICENSE for licensing information */
 
 #[inline]
 fn is_term_in_document(term: &str, document: &str) -> bool {

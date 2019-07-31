@@ -1,3 +1,6 @@
+/* Copyright (c) 2019 Nequ4tion */
+/* See LICENSE for licensing information */
+
 /// Term frequency: number of times t appeared in a document / number of terms in the document
 pub fn tf(term: &str, document: &str) -> f32 {
     let mut number_of_occurrences = 0;
